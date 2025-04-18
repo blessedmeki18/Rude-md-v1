@@ -1,8 +1,8 @@
-# Yobih_BUG-BOT
+# 1Rude_BUG-BOT
 
-[![Yobih bot_MD](https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=676&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Yobih-MD+Bot;I+am+Programmed+by+Mungai+Yobih;Mungai+Yobih+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya;Mungai+Loves+You+All)](https://github.com/254100934193/Yobih_Bot-MD)
+[![1Rude bot_MD](https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=676&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+1Rude-MD+Bot;I+am+Programmed+by+Rude+Boy;1+Rude+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Zimbabwe;Rude+Loves+You+All)](https://github.com/254100934193/Yobih_Bot-MD)
 
-<h1 align="center"> YOBIH_BUG_BOT 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center"> 1Rude_BUG_BOT 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
 
  
