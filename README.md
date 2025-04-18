@@ -10,7 +10,7 @@
  
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Green+Ops+One&size=47&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +YOBIH-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MUNGAI+YOBIH;RELEASED+15.8.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Green+Ops+One&size=47&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +1Rude-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+1+Rude;RELEASED+15.8.2024" alt="Typing SVG" /></a>
   </p>
 
 
@@ -20,7 +20,7 @@
 
   **PLEASE FORK MY REPO AND GIVE A STAR FOR COURAGE**
 
-  **MUNGAI WISHES TO THANKS YOU'LL FOR YOUR SUPPORT**
+  **Rude WISHES TO THANKS YOU'LL FOR YOUR SUPPORT**
 
  
 ## Deployment Methods!
