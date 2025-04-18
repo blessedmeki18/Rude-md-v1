@@ -15243,11 +15243,11 @@
 
 
 {
-  "name":"Yobih Bug Bot",
-  "description":"Best whatsapp bot developed by Mungai Yobih",
+  "name":"1Rude Bug Bot",
+  "description":"Best whatsapp bot developed by Rudedahboy",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
-  "repository":"https://github.com/254100934193/Yobih-Bug-Bot",
+  "repository":"https://github.com/blessedmeki18/Rude-md-v1",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -15291,7 +15291,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Yobih Bug Bot",
+      "value":"1Rude Bug Bot",
       "required":false
 
     } ,
@@ -15330,14 +15330,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mungai Yobih"
+    "value": "1Rude"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254743436105,254100934193"
+    "value": "263783945731,263711610966"
   },
     "WARN_COUNT":
   {
